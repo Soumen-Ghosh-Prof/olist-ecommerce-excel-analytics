@@ -1,1 +1,7 @@
 data/raw/
+~$*.xlsx
+~$*.xlsb
+~$*.xlsm
+*.tmp
+Thumbs.db
+.DS_Store
